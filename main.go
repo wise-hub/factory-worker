@@ -33,7 +33,7 @@ func main() {
 			panic(err)
 		}
 
-		// Sleep for 1 minute
+		// Sleep for 1 min
 		time.Sleep(1 * time.Minute)
 	}
 }
